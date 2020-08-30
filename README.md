@@ -26,12 +26,6 @@ Here are some ideas to get you started:
  -->
  <h1></h1>
   
-- 💻 I lead the [Facebook Developer Circle: Boston](https://github.com/tomkaX?tab=repositories) group where anyone is welcome to learn Facebook technologies free of charge. As of 2020 we are completely remote so you can now learn and create in the comfort of your own homes.
-
-- 💬 Ask for a quote on freelance or contract work at [Jackie's Jawn](https://jackiesjawn.com)
-
-- 📫 Reach out to me at **jackiedmcgraw@gmail.com** with any questions
-  
 <!-- <ul>
   <li>💻 I lead the [Facebook Developer Circle: Boston](https://github.com/tomkaX?tab=repositories) group where anyone is welcome to learn Facebook technologies free of charge. As of 2020 we are completely remote so you can now learn and create in the comfort of your own homes.</li>  
   <li>📫 Reach out to me at **jackiedmcgraw@gmail.com** with any questions </li>
@@ -52,7 +46,7 @@ Here are some ideas to get you started:
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=JacquelineDMcGraw" alt="JacquelineDMcGraw" />
   
-  <img src="https://lh3.googleusercontent.com/proxy/UMSVlJxvdhWs6oZmQcx0Njl9w5Ymdx6z4ktIsFzAIAl6YOBSshAdMWHh40cBUHTvGd2Bv60N4rr4L_j49p-z2G9JqF1UXF6zIdav" alt="HTML5" width="20" height="20"/>
+  <img src="https://onsongapp.s3.amazonaws.com/manual/f1afe3600cb3fbf441f5a9394c6c3b27.png" alt="HTML5" width="20" height="20"/>
   
   <img src="https://spng.subpng.com/20180809/rok/kisspng-javascript-and-jquery-interactive-front-end-web-d--5b6cfa25cf8a30.0077362015338685818501.jpg" alt="JS" width="20" height="20"/>
   
@@ -76,6 +70,12 @@ Here are some ideas to get you started:
   
   <img style="border-radius:3px;" src="https://cdn.shortpixel.ai/client/q_glossy,ret_img/https://webdesigntoolbox.com/wp-content/uploads/2020/05/140520201589470786.png" alt="AE" width="20" height="20"/>
 </p>
+  
+- 💻 I lead the [Facebook Developer Circle: Boston](https://github.com/tomkaX?tab=repositories) group where anyone is welcome to learn Facebook technologies free of charge. As of 2020 we are completely remote so you can now learn and create in the comfort of your own homes.
+
+- 💬 Ask for a quote on freelance or contract work at [Jackie's Jawn](https://jackiesjawn.com)
+
+- 📫 Reach out to me at **jackiedmcgraw@gmail.com** with any questions
 
 <p align="center">
   <a href="https://www.linkedin.com/in/jackiemcgraw/" target="blank">
