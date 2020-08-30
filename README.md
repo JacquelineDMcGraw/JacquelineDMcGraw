@@ -13,10 +13,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<!-- 
 
-
-<h1 align="center">Hi 👋, I'm Tamara Koliada </h1>
-<h3 align="center">A passionate Data Scientist and Open Source contributor  </h3>
+<h1 align="center">Hi 👋, I'm Jackie McGraw</h1>
+<h3 align="center">I love creating engaging digital experiences and frequently advocate for inclusive, accessible products that follow universal design techniques ♿ I strive to create user interfaces that need no explanation, and believe that the most effective way to learn is while having fun in a judgement free zone 🎉</h3>
 
 ![image](https://github.com/saadeghi/saadeghi/blob/master/dino.gif)
 
@@ -54,3 +54,4 @@ Here are some ideas to get you started:
 
 </p>
 
+ -->
