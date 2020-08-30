@@ -75,11 +75,11 @@ Here are some ideas to get you started:
 
 - 💻 I lead the [Facebook Developer Circle: Boston](https://github.com/tomkaX?tab=repositories) group where anyone is welcome to learn Facebook technologies free of charge. 
 
-- 🏠 As of 2020 DevC Boston is completely remote so you can now learn and create in the comfort of your own homes – [get alerts for our next event](https://boston-devc.github.io/Subscribe)
+- 🏠 As of 2020 DevC Boston is completely remote so you can now learn and create in the comfort of your own homes – [get alerts for our next event](https://boston-devc.github.io/Subscribe).
 
-- 💬 Ask for a quote on freelance or contract work at [Jackie's Jawn](https://jackiesjawn.com)
+- 💬 Ask for a quote on freelance or contract work at [Jackie's Jawn](https://jackiesjawn.com).
 
-- 📫 Reach out to me at **jackiedmcgraw@gmail.com** with any questions
+- 📫 Reach out to me at **jackiedmcgraw@gmail.com** with any questions.
 
 <p align="center">
   <a href="https://www.linkedin.com/in/jackiemcgraw/" target="blank">
