@@ -1,35 +1,3 @@
-<style>
-  body {
-  font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;
-    font-size: 14px;
-}
-
-#banner {
-  width: 100%;
-  opacity:.2;
-}
-
-p {
-  font-size: 16px;
-}
-
-.space { 
-  margin: 0px 20vw;
-}
-
-ul {
-    display: block;
-    list-style-type: disc;
-    margin-block-start: 1em;
-    margin-block-end: 1em;
-    margin-inline-start: 0px;
-    margin-inline-end: 0px;
-    padding-inline-start: 40px;
-    font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;
-    font-size: 16px;
-    line-height: 1.5;
-}
-</style>
 <div class="space">
 <!--
 **tomkaX/tomkaX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -56,8 +24,6 @@ Here are some ideas to get you started:
 
 <!-- ![image](https://github.com/saadeghi/saadeghi/blob/master/dino.gif)
  -->
-<img id="banner" src="https://github.com/JacquelineDMcGraw/JacquelineDMcGraw/blob/master/gifs/cubes.gif?raw=true">
-<br/>
 
 <p align="left">
 <img src="https://komarev.com/ghpvc/?username=JacquelineDMcGraw" alt="JacquelineDMcGraw" />
