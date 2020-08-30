@@ -72,14 +72,23 @@ Here are some ideas to get you started:
 
 
 <p align="center"> 
-  <a href="https://www.linkedin.com/in/jackiemcgraw/" target="_blank"><img src="https://github.com/JacquelineDMcGraw/JacquelineDMcGraw/blob/master/gifs/bio.png?raw=true" alt="JacquelineDMcGraw" style="width:70%; margin: 60px 0px 10px 0px;"> 
-  </a></p>
 
-<p align="center"> 
-<a href="https://www.linkedin.com/in/tomakoliada/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/tomakoliada/" height="20" width="20" /></a>
-  
-  <a href="https://www.facebook.com/tomkka" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="https://www.facebook.com/tomkka" height="20" width="20" /></a>
-  <a href="https://www.instagram.com/tomkamk/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="https://www.instagram.com/tomkamk/" height="20" width="20" /></a>
-  
- <a href="https://twitter.com/T0MKA" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="https://twitter.com/T0MKA" height="20" width="20" /></a>
+  <a href="https://www.linkedin.com/in/jackiemcgraw/" target="_blank">
+    <img src="https://github.com/JacquelineDMcGraw/JacquelineDMcGraw/blob/master/gifs/bio.png?raw=true" alt="JacquelineDMcGraw" style="width:70%; margin: 60px 0px 10px 0px;"> 
+  </a>
+
+  <a href="https://www.linkedin.com/in/jackiemcgraw/" target="blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/tomakoliada/" height="20" width="20" />
+  </a>
+   
+  <a href="https://www.facebook.com/jackiesjawn" target="blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="https://www.facebook.com/tomkka" height="20" width="20" />
+  </a>
+
+  <a href="https://www.instagram.com/jackiesjawn/" target="blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="https://www.instagram.com/tomkamk/" height="20" width="20" />
+  </a>
+
 </p>
+  
+ 
