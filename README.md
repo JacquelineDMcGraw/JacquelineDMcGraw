@@ -24,7 +24,6 @@ Here are some ideas to get you started:
 
 <!-- ![image](https://github.com/saadeghi/saadeghi/blob/master/dino.gif)
  -->
- <h1></h1>
   
 <!-- <ul>
   <li>💻 I lead the [Facebook Developer Circle: Boston](https://github.com/tomkaX?tab=repositories) group where anyone is welcome to learn Facebook technologies free of charge. As of 2020 we are completely remote so you can now learn and create in the comfort of your own homes.</li>  
@@ -71,7 +70,12 @@ Here are some ideas to get you started:
   <img style="border-radius:3px;" src="https://cdn.shortpixel.ai/client/q_glossy,ret_img/https://webdesigntoolbox.com/wp-content/uploads/2020/05/140520201589470786.png" alt="AE" width="20" height="20"/>
 </p>
   
-- 💻 I lead the [Facebook Developer Circle: Boston](https://github.com/tomkaX?tab=repositories) group where anyone is welcome to learn Facebook technologies free of charge. As of 2020 we are completely remote so you can now learn and create in the comfort of your own homes.
+
+<h1></h1>
+
+- 💻 I lead the [Facebook Developer Circle: Boston](https://github.com/tomkaX?tab=repositories) group where anyone is welcome to learn Facebook technologies free of charge. 
+
+- 🏠 As of 2020 DevC Boston is completely remote so you can now learn and create in the comfort of your own homes – [get alerts for our next event](https://boston-devc.github.io/Subscribe)
 
 - 💬 Ask for a quote on freelance or contract work at [Jackie's Jawn](https://jackiesjawn.com)
 
