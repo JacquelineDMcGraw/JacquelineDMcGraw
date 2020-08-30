@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 
 
-<h1 align="left">Hi 👋 I'm Jackie!</h1>
+<h1 align="left">👋 Hi, I'm Jackie!</h1>
 <p>Pronouns: <cite>(they/them)</cite></p>
 <p align="left">I love creating engaging digital experiences and frequently advocate for inclusive, accessible products that follow universal design techniques. ♿</p>
   
