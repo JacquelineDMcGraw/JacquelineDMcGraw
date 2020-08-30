@@ -48,9 +48,9 @@ Here are some ideas to get you started:
   
   <img src="https://3.bp.blogspot.com/-pxR8u1KJTW8/XIb7zIKqqQI/AAAAAAAAIrA/KDNONkGKj-EDm1vadBqJbxMg64oi0LVXgCK4BGAYYCw/s1600/logo%2Bhtml5.png" alt="HTML5" width="16" height="20"/>
   
-  <img src="https://p7.hiclipart.com/preview/780/695/593/javascript-comment-html-logo-international-conference-on-missions-node-js-icon.jpg" alt="JS" width="20" height="20"/>
+  <img src="https://png2.cleanpng.com/sh/b74e55ed8f5193f6457f86c0feb117bf/L0KzQYm3VMI6N5N6j5H0aYP2gLBuTfpifpJ4eARycISwfLFuj71pfJ5xRdV4bX3ofsW0gvxwb146edcBM3O1Q4K6WcEyOF86TKUBOEe3QIK8UsUxO2k2Sac5OEC1PsH1h5==/kisspng-javascript-logo-html-comment-blog-5ae63c23139110.5436874015250381150802.png" alt="JS" width="16" height="20"/>
   
-  <img src="https://img2.pngio.com/download-icon-css-3-svg-eps-png-psd-ai-logo-vector-color-free-el-css-logo-png-1141_1600.png" alt="CSS" width="20" height="20"/>  
+  <img src="https://img2.pngio.com/download-icon-css-3-svg-eps-png-psd-ai-logo-vector-color-free-el-css-logo-png-1141_1600.png" alt="CSS" width="16" height="20"/>  
   
   <img src="https://github.com/simple-icons/simple-icons/raw/develop/icons/amazonaws.svg" alt="aws"  width="20" height="20" /> 
   
