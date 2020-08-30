@@ -46,7 +46,7 @@ Here are some ideas to get you started:
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=JacquelineDMcGraw" alt="JacquelineDMcGraw" />
   
-  <img src="https://onsongapp.s3.amazonaws.com/manual/f1afe3600cb3fbf441f5a9394c6c3b27.png" alt="HTML5" width="20" height="20"/>
+  <img src="https://3.bp.blogspot.com/-pxR8u1KJTW8/XIb7zIKqqQI/AAAAAAAAIrA/KDNONkGKj-EDm1vadBqJbxMg64oi0LVXgCK4BGAYYCw/s1600/logo%2Bhtml5.png" alt="HTML5" width="20" height="20"/>
   
   <img src="https://spng.subpng.com/20180809/rok/kisspng-javascript-and-jquery-interactive-front-end-web-d--5b6cfa25cf8a30.0077362015338685818501.jpg" alt="JS" width="20" height="20"/>
   
