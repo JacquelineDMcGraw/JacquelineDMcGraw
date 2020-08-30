@@ -1,4 +1,4 @@
-<div class="space">
+
 <!--
 **tomkaX/tomkaX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -83,5 +83,3 @@ Here are some ideas to get you started:
   
  <a href="https://twitter.com/T0MKA" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="https://twitter.com/T0MKA" height="20" width="20" /></a>
 </p>
-  
-</div>
