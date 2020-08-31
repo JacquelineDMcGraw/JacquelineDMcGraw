@@ -79,7 +79,7 @@ Here are some ideas to get you started:
 
 - 💬 Ask for a quote on freelance or contract work at [Jackie's Jawn](https://jackiesjawn.com).
 
-- 📫 Reach out to me at **jackiedmcgraw@gmail.com** with any questions.
+- 📫 Reach out to me at [jackiedmcgraw+git@gmail.com](mailto:jackiedmcgraw+git@gmail.com) with any questions.
 
 <p align="center">
   <a href="https://www.linkedin.com/in/jackiemcgraw/" target="blank">
