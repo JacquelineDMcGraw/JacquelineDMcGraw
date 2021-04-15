@@ -17,10 +17,15 @@ Here are some ideas to get you started:
 <h1 align="left">👋 Hi, I'm Jackie!</h1>
 <img src="https://i.giphy.com/media/vnAeqoVlbnqfuTtLt8/giphy.webp">
 - 🆔 26 (they/them)
+
 - 💼 Front-end Web Designer & Developer @ Harvard University
+
 - 📍 Boston, MA
+
 - 🎓 B.S. in Game Design
+
 - 🚧 Pursuing M.A. in Digital Media Design
+
 
 <p align="left">I love creating engaging digital experiences and frequently advocate for inclusive, accessible products that follow universal design techniques. ♿</p>
   
