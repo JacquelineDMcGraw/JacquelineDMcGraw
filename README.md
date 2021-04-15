@@ -15,7 +15,9 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="left">👋 Hi, I'm Jackie!</h1>
-<img src="https://i.giphy.com/media/vnAeqoVlbnqfuTtLt8/giphy.webp">
+<img align="left" src="https://media4.giphy.com/media/SS8ZlHa3ZA3ZaI71JG/giphy.gif">
+<img align="right" src="https://i.giphy.com/media/vnAeqoVlbnqfuTtLt8/giphy.webp">
+
 - 🆔 26 (they/them)
 
 - 💼 Front-end Web Designer & Developer @ Harvard University
