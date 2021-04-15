@@ -17,10 +17,20 @@ Here are some ideas to get you started:
 
 
 <h1 align="left">👋 Hi, I'm Jackie!</h1>
-<p>Pronouns: <cite>(they/them)</cite></p>
+<p>🆔 26 (they/them)</p>
+<p>💼 Front-end Web Designer & Developer @ Harvard University</p>
+<p>📍 Boston, MA</p>
+<p>🎓 B.S. in Game Design</p>
+<p>🚧 Pursuing M.A. in Digital Media Design</p>
+
 <p align="left">I love creating engaging digital experiences and frequently advocate for inclusive, accessible products that follow universal design techniques. ♿</p>
   
 <p>I strive to create user interfaces that need no explanation, and believe that the most effective way to learn is while having fun in a judgement free zone. 🎉</p>
+
+<p>➡️ In the Queue</p>
+<h1></h1>
+- [Play a game I worked on](https://www.oculus.com/experiences/quest/3531906180264612)
+- [Check out some websites I help run](https://extension.harvard.edu/)
 
 <!-- ![image](https://github.com/saadeghi/saadeghi/blob/master/dino.gif)
  -->
@@ -35,19 +45,19 @@ Here are some ideas to get you started:
   <img src="https://github-readme-stats.vercel.app/api?username=JacquelineDMcGraw&show_icons=true" alt="JacquelineDMcGraw" />
    -->
 
-
+<!-- 
 <p align="center"> 
   <a href="https://www.linkedin.com/in/jackiemcgraw/" target="_blank">
     <img src="https://github.com/JacquelineDMcGraw/JacquelineDMcGraw/blob/master/gifs/bio.png?raw=true" alt="JacquelineDMcGraw" style="width:70%; margin: 60px 0px 10px 0px;"> 
   </a>
 </p>
-
+ -->
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=JacquelineDMcGraw" alt="JacquelineDMcGraw" />
   
   <img src="https://3.bp.blogspot.com/-pxR8u1KJTW8/XIb7zIKqqQI/AAAAAAAAIrA/KDNONkGKj-EDm1vadBqJbxMg64oi0LVXgCK4BGAYYCw/s1600/logo%2Bhtml5.png" alt="HTML5" width="16" height="20"/>
   
-  <img src="https://png2.cleanpng.com/sh/b74e55ed8f5193f6457f86c0feb117bf/L0KzQYm3VMI6N5N6j5H0aYP2gLBuTfpifpJ4eARycISwfLFuj71pfJ5xRdV4bX3ofsW0gvxwb146edcBM3O1Q4K6WcEyOF86TKUBOEe3QIK8UsUxO2k2Sac5OEC1PsH1h5==/kisspng-javascript-logo-html-comment-blog-5ae63c23139110.5436874015250381150802.png" alt="JS" width="16" height="20"/>
+  <img src="https://i.pinimg.com/originals/98/0b/a0/980ba07956ccfdf81b5060b1795cdcad.png" alt="JS" width="16" height="20"/>
   
   <img src="https://img2.pngio.com/download-icon-css-3-svg-eps-png-psd-ai-logo-vector-color-free-el-css-logo-png-1141_1600.png" alt="CSS" width="16" height="20"/>  
   
@@ -73,9 +83,9 @@ Here are some ideas to get you started:
 
 <h1></h1>
 
-- 💻 I lead the [Facebook Developer Circle: Boston](https://github.com/tomkaX?tab=repositories) group where anyone is welcome to learn Facebook technologies free of charge. 
+- 💻 I'm a lead at [Facebook Developer Circle: Boston](https://github.com/tomkaX?tab=repositories) – We are community of innovators and experienced developers who give free opportunities to learn Facebook products. Come learn stuff with us by [getting an alert when our next event is released](https://boston-devc.github.io/Subscribe)✨ 
 
-- 🏠 As of 2020 DevC Boston is completely remote so you can now learn and create in the comfort of your own homes – [get alerts for our next event](https://boston-devc.github.io/Subscribe).
+- 👾 We often do seminars, work sessions, and game nights in our Discord server – come and join us anytime with [this invite](https://discord.gg/84SEVsd5)
 
 - 💬 Ask for a quote on freelance or contract work at [Jackie's Jawn](https://jackiesjawn.com).
 
