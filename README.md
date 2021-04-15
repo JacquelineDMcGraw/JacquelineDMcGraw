@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 - 🆔 26 (they/them)
 
-- 💼 Front-end Web Designer & Developer @ Harvard University
+- 💼 Front-end Web Developer @ Harvard
 
 - 📍 Boston, MA
 
