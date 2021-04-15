@@ -14,8 +14,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
-
 <h1 align="left">👋 Hi, I'm Jackie!</h1>
 <p>🆔 26 (they/them)</p>
 <p>💼 Front-end Web Designer & Developer @ Harvard University</p>
@@ -27,14 +25,7 @@ Here are some ideas to get you started:
   
 <p>I strive to create user interfaces that need no explanation, and believe that the most effective way to learn is while having fun in a judgement free zone. 🎉</p>
 
-<p>➡️ In the Queue</p>
-<h1></h1>
-- [Play a game I worked on](https://www.oculus.com/experiences/quest/3531906180264612)
-- [Check out some websites I help run](https://extension.harvard.edu/)
-
-<!-- ![image](https://github.com/saadeghi/saadeghi/blob/master/dino.gif)
- -->
-  
+<!-- ![image](https://github.com/saadeghi/saadeghi/blob/master/dino.gif) -->
 <!-- <ul>
   <li>💻 I lead the [Facebook Developer Circle: Boston](https://github.com/tomkaX?tab=repositories) group where anyone is welcome to learn Facebook technologies free of charge. As of 2020 we are completely remote so you can now learn and create in the comfort of your own homes.</li>  
   <li>📫 Reach out to me at **jackiedmcgraw@gmail.com** with any questions </li>
@@ -57,7 +48,7 @@ Here are some ideas to get you started:
   
   <img src="https://3.bp.blogspot.com/-pxR8u1KJTW8/XIb7zIKqqQI/AAAAAAAAIrA/KDNONkGKj-EDm1vadBqJbxMg64oi0LVXgCK4BGAYYCw/s1600/logo%2Bhtml5.png" alt="HTML5" width="16" height="20"/>
   
-  <img src="https://i.pinimg.com/originals/98/0b/a0/980ba07956ccfdf81b5060b1795cdcad.png" alt="JS" width="16" height="20"/>
+  <img src="https://www.easyprogramming.net/logo/js.png" alt="JS" width="16" height="20"/>
   
   <img src="https://img2.pngio.com/download-icon-css-3-svg-eps-png-psd-ai-logo-vector-color-free-el-css-logo-png-1141_1600.png" alt="CSS" width="16" height="20"/>  
   
@@ -79,7 +70,6 @@ Here are some ideas to get you started:
   
   <img style="border-radius:3px;" src="https://cdn.shortpixel.ai/client/q_glossy,ret_img/https://webdesigntoolbox.com/wp-content/uploads/2020/05/140520201589470786.png" alt="AE" width="20" height="20"/>
 </p>
-  
 
 <h1></h1>
 
@@ -103,7 +93,4 @@ Here are some ideas to get you started:
   <a href="https://www.instagram.com/jackiesjawn/" target="blank">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="https://www.instagram.com/tomkamk/" height="20" width="20" />
   </a>
-
 </p>
-  
- 
