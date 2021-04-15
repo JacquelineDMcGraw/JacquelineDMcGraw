@@ -17,7 +17,6 @@ Here are some ideas to get you started:
 <h1 align="left">👋 Hi, I'm Jackie!</h1>
 
 <br/>
-<br/>
 
 <img align="right" src="https://i.giphy.com/media/vnAeqoVlbnqfuTtLt8/giphy.webp">
 
@@ -26,6 +25,10 @@ Here are some ideas to get you started:
 - 💼 Front-end Web Designer & Developer @ Harvard University
 
 - 📍 Boston, MA
+
+- 💻 Web Dev
+
+- 📲 UI/UX Designer
 
 - 🎓 B.S. in Game Design
 
