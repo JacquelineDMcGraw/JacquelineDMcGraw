@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="left">👋 Hi, I'm Jackie!</h1>
-<img align="left" src="https://i.giphy.com/media/vnAeqoVlbnqfuTtLt8/giphy.webp">
+<img align="right" src="https://i.giphy.com/media/vnAeqoVlbnqfuTtLt8/giphy.webp">
 
 - 🆔 26 (they/them)
 
@@ -27,6 +27,8 @@ Here are some ideas to get you started:
 
 - 🚧 Pursuing M.A. in Digital Media Design
 
+<br/>
+<br/>
 
 <p align="left">I love creating engaging digital experiences and frequently advocate for inclusive, accessible products that follow universal design techniques. ♿</p>
   
