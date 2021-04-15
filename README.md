@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="left">👋 Hi, I'm Jackie!</h1>
+<img src="https://i.giphy.com/media/vnAeqoVlbnqfuTtLt8/giphy.webp">
 <p>🆔 26 (they/them)</p>
 <p>💼 Front-end Web Designer & Developer @ Harvard University</p>
 <p>📍 Boston, MA</p>
@@ -48,7 +49,7 @@ Here are some ideas to get you started:
   
   <img src="https://3.bp.blogspot.com/-pxR8u1KJTW8/XIb7zIKqqQI/AAAAAAAAIrA/KDNONkGKj-EDm1vadBqJbxMg64oi0LVXgCK4BGAYYCw/s1600/logo%2Bhtml5.png" alt="HTML5" width="16" height="20"/>
   
-  <img src="https://www.easyprogramming.net/logo/js.png" alt="JS" width="16" height="20"/>
+  <img src="https://www.easyprogramming.net/logo/js.png" alt="JS" width="16" height="16"/>
   
   <img src="https://img2.pngio.com/download-icon-css-3-svg-eps-png-psd-ai-logo-vector-color-free-el-css-logo-png-1141_1600.png" alt="CSS" width="16" height="20"/>  
   
