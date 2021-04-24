@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 <p align="left">I love creating engaging digital experiences and frequently advocate for inclusive, accessible products that follow universal design techniques. When designing, I strive to create user interfaces that need no explanation, and believe that the most effective way to learn is while having fun in a judgement free zone. 🎉</p>
 
-<p>I'm a newly Certified Accessible Player Experience Practitioner through the Able Gamers Charity– if you haven't heard of it, you should [check out getting certified](https://accessible.games/apxp/) to rid your game of experience blockers. 💪</p>
+<p>I'm a newly Certified Accessible Player Experience Practitioner through the Able Gamers Charity– if you haven't heard of it, you should <a href="https://accessible.games/apxp" target="_blank" title="Accessible Player Experience Practitioner Certification Training Website (Opens in a new window)">check out getting certified</a> to rid your game of experience blockers. 💪</p>
 
 <!-- ![image](https://github.com/saadeghi/saadeghi/blob/master/dino.gif) -->
 <!-- <ul>
