@@ -26,18 +26,18 @@ Here are some ideas to get you started:
 
 - 📍 Boston, MA
 
-- 🎓 BS Game Design
+- 🎓 B.S. Game Design
 
-- 🚧 Pursuing MA Digital Media Design
+- 🚧 Pursuing M.A. Digital Media Design
 
 - 💛 Games, UI/UX design, accessibility
 
 <br/>
 <br/>
 
-<p align="left">I love creating engaging digital experiences and frequently advocate for inclusive, accessible products that follow universal design techniques. ♿</p>
-  
-<p>I strive to create user interfaces that need no explanation, and believe that the most effective way to learn is while having fun in a judgement free zone. 🎉</p>
+<p align="left">I love creating engaging digital experiences and frequently advocate for inclusive, accessible products that follow universal design techniques. When designing, I strive to create user interfaces that need no explanation, and believe that the most effective way to learn is while having fun in a judgement free zone. 🎉</p>
+
+<p>I'm a newly Certified Accessible Player Experience Practitioner through the Able Gamers Charity– if you haven't heard of it, you should [check out getting certified](https://accessible.games/apxp/) to rid your game of experience blockers. 💪</p>
 
 <!-- ![image](https://github.com/saadeghi/saadeghi/blob/master/dino.gif) -->
 <!-- <ul>
