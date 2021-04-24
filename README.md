@@ -18,21 +18,19 @@ Here are some ideas to get you started:
 
 <br/>
 
-<img align="right" src="https://i.giphy.com/media/vnAeqoVlbnqfuTtLt8/giphy.webp">
-
 - 🆔 26 (they/them)
 
-- 💼 Front-end Web Developer @ Harvard
+- 💼 Web Dev @harvard
+
+- ✨ Owner @jackiesjawn
 
 - 📍 Boston, MA
 
-- 💻 Web Dev
+- 🎓 BS Game Design
 
-- 📲 UI/UX Designer
+- 🚧 Pursuing MA Digital Media Design
 
-- 🎓 B.S. in Game Design
-
-- 🚧 Pursuing M.A. in Digital Media Design
+- 💛 Games, UI/UX design, accessibility
 
 <br/>
 <br/>
@@ -74,7 +72,7 @@ Here are some ideas to get you started:
   
   <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="react" width="20" height="20"/> 
   
-  <img src="https://img.utdstc.com/icons/spark-ar-studio.png:225" alt="sparkar" width="20" height="20"/>
+  <img src="https://media-exp1.licdn.com/dms/image/C510BAQHNdhXnGMLpdw/company-logo_200_200/0/1575380570230?e=2159024400&v=beta&t=bqSSytGlxk4ATepY-qvGIHAVI05HjnBYe77hONUvY98" alt="sparkar" width="20" height="20"/>
   
   <img src="https://www.iconarchive.com/download/i98223/dakirby309/simply-styled/Blender.ico" alt="blender" width="20" height="20"/> 
   
