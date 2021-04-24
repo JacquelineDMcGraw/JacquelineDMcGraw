@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 <p align="left">I love creating engaging digital experiences and frequently advocate for inclusive, accessible products that follow universal design techniques. When designing, I strive to create user interfaces that need no explanation, and believe that the most effective way to learn is while having fun in a judgement free zone. 🎉</p>
 
-<p>I'm a newly Certified Accessible Player Experience Practitioner through the Able Gamers Charity– if you haven't heard of it, you should <a href="https://accessible.games/apxp" target="_blank" title="Accessible Player Experience Practitioner Certification Training Website (Opens in a new window)">check out getting certified</a> to rid your game of experience blockers. 💪</p>
+<p>I'm a newly Certified Accessible Player Experience Practitioner through the Able Gamers Charity– if you haven't heard of it, you should <a href="https://accessible.games/apxp" target="_blank" title="Accessible Player Experience Practitioner Certification Training Website">check out getting certified</a> to rid your game of experience blockers. 💪</p>
 
 <!-- ![image](https://github.com/saadeghi/saadeghi/blob/master/dino.gif) -->
 <!-- <ul>
@@ -89,15 +89,15 @@ Here are some ideas to get you started:
 
 <p> 
 <ul>
-  <li> 💻 I'm a lead at <a href="https://github.com/tomkaX?tab=repositories" target="_blank" title="Facebook Developer Circle: Boston Facebook group (Opens in a new window)">Facebook Developer Circle: Boston</a> – We are community of innovators and experienced developers who give free opportunities to learn Facebook products. Come learn stuff with us by <a href="https://boston-devc.github.io/Subscribe" target="_blank" title="Facebook Developer Circle: Boston Notification Sign-up Page (Opens in a new window)">getting an alert when our next event is released.</a> ✨</li>
+  <li> 💻 I'm a lead at <a href="https://github.com/tomkaX?tab=repositories" target="_blank" title="Facebook Developer Circle: Boston Facebook group ">Facebook Developer Circle: Boston</a> – We are community of innovators and experienced developers who give free opportunities to learn Facebook products. Come learn stuff with us by <a href="https://boston-devc.github.io/Subscribe" target="_blank" title="Facebook Developer Circle: Boston Notification Sign-up Page ">getting an alert when our next event is released.</a> ✨</li>
 
   <br/>
 
-  <li> 👾 We often do seminars, work sessions, and game nights in our Discord server – come and join us anytime with <a href="https://discord.gg/84SEVsd5" target="_blank" title="Facebook Developer Circle: Boston Discord Server Invite (Opens in a new window)">this invite</a>.</li>
+  <li> 👾 We often do seminars, work sessions, and game nights in our Discord server – come and join us anytime with <a href="https://discord.gg/84SEVsd5" target="_blank" title="Facebook Developer Circle: Boston Discord Server Invite ">this invite</a>.</li>
 
   <br/>
 
-  <li> 💬 Ask for a quote on freelance or contract work at <a href="https://jackiesjawn.com" target="_blank" title="Jackie's Jawn Contracting and Commissions Website (Opens in a new window)">Jackie's Jawn.</li>
+  <li> 💬 Ask for a quote on freelance or contract work at <a href="https://jackiesjawn.com" target="_blank" title="Jackie's Jawn Contracting and Commissions Website ">Jackie's Jawn.</li>
   
   <br/>
 
