@@ -16,8 +16,6 @@ Here are some ideas to get you started:
 
 <h1 align="left">👋 Hi, I'm Jackie!</h1>
 
-<img alt="Pink and white laptop that is open." align="right" width="200" src="https://i.giphy.com/media/X8ccRNYi0KLd1hE23s/giphy.webp">
-
 <br/>
 
 - 🆔 26 (they/them)
