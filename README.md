@@ -20,9 +20,9 @@ Here are some ideas to get you started:
 
 - 🆔 26 (they/them)
 
-- 💼 Web Dev @harvard
+- 💼 Web Developer @ Harvard University
 
-- ✨ Owner @jackiesjawn
+- ✨ Owner @ Jackie's Jawn
 
 - 📍 Boston, MA
 
