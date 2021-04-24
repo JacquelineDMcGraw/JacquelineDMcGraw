@@ -91,10 +91,16 @@ Here are some ideas to get you started:
 <ul>
   <li> 💻 I'm a lead at <a href="https://github.com/tomkaX?tab=repositories" target="_blank" title="Facebook Developer Circle: Boston Facebook group (Opens in a new window)">Facebook Developer Circle: Boston</a> – We are community of innovators and experienced developers who give free opportunities to learn Facebook products. Come learn stuff with us by <a href="https://boston-devc.github.io/Subscribe" target="_blank" title="Facebook Developer Circle: Boston Notification Sign-up Page (Opens in a new window)">getting an alert when our next event is released. ✨</li>
 
+  <br/>
+
   <li> 👾 We often do seminars, work sessions, and game nights in our Discord server – come and join us anytime with <a href="https://discord.gg/84SEVsd5" target="_blank" title="Facebook Developer Circle: Boston Discord Server Invite (Opens in a new window)">this invite</a>.</li>
+
+  <br/>
 
   <li> 💬 Ask for a quote on freelance or contract work at <a href="https://jackiesjawn.com" target="_blank" title="Jackie's Jawn Contracting and Commissions Website (Opens in a new window)">Jackie's Jawn.</li>
   
+  <br/>
+
   <li> 📫 Reach out to me at <a href="mailto:jackiedmcgraw+git@gmail.com" target="_blank" title="Email jackiedmcgraw+git@gmail.com (Opens in your native mail client)">jackiedmcgraw+git@gmail.com</a> with any questions.</li>
 </ul>
 </p>
