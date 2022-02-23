@@ -89,7 +89,7 @@ Here are some ideas to get you started:
 
 <p> 
 <ul>
-  <li> 💻 I'm a lead at <a href="https://github.com/tomkaX?tab=repositories" target="_blank" title="Facebook Developer Circle: Boston Facebook group ">Facebook Developer Circle: Boston</a> – We are community of innovators and experienced developers who give free opportunities to learn Facebook products. Come learn stuff with us by <a href="https://boston-devc.github.io/Subscribe" target="_blank" title="Facebook Developer Circle: Boston Notification Sign-up Page ">getting an alert when our next event is released.</a> ✨</li>
+  <li> 💻 I'm a lead at <a href="https://github.com/tomkaX?tab=repositories" target="_blank" title="Meta Developer Circle: Boston Facebook group ">Meta Developer Circle: Boston</a> – We are community of innovators and experienced developers who give free opportunities to learn Facebook products. Come learn stuff with us by <a href="https://boston-devc.github.io/Subscribe" target="_blank" title="Facebook Developer Circle: Boston Notification Sign-up Page ">getting an alert when our next event is released.</a> ✨</li>
 
   <br/>
 
