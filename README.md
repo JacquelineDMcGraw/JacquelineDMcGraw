@@ -66,7 +66,7 @@ Here are some ideas to get you started:
   
   <img src="https://img2.pngio.com/download-icon-css-3-svg-eps-png-psd-ai-logo-vector-color-free-el-css-logo-png-1141_1600.png" alt="CSS" width="16" height="20"/>  
   
-  <img src="https://github.com/simple-icons/simple-icons/raw/develop/icons/amazonaws.svg" alt="aws"  width="20" height="20" /> 
+  <img src="https://miro.medium.com/max/3150/1*F6ufPKgGbyUPkWLZ-16ycw.png" alt="framer"  width="20" height="20" /> 
   
   <img src="https://img.icons8.com/color/48/000000/git.png" alt="git" width="20" height="20"/> 
   
@@ -82,7 +82,7 @@ Here are some ideas to get you started:
   
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/1051px-Adobe_Photoshop_CC_icon.svg.png" alt="PSD" width="20" height="20"/> 
   
-  <img style="border-radius:3px;" src="https://cdn.shortpixel.ai/client/q_glossy,ret_img/https://webdesigntoolbox.com/wp-content/uploads/2020/05/140520201589470786.png" alt="AE" width="20" height="20"/>
+  <img style="border-radius:3px;" src="https://upload.wikimedia.org/wikipedia/commons/2/29/Adobe_After_Effects_CC_icon.png?20180202164623" alt="AE" width="20" height="20"/>
 </p>
 
 <h1></h1>
