@@ -41,7 +41,7 @@ Here are some ideas to get you started:
 
 <!-- ![image](https://github.com/saadeghi/saadeghi/blob/master/dino.gif) -->
 <!-- <ul>
-  <li>💻 I lead the [Facebook Developer Circle: Boston](https://github.com/tomkaX?tab=repositories) group where anyone is welcome to learn Facebook technologies free of charge. As of 2020 we are completely remote so you can now learn and create in the comfort of your own homes.</li>  
+  <li>💻 I lead the [Facebook Developer Circle: Boston](https://www.facebook.com/groups/823728767782273) group where anyone is welcome to learn Facebook technologies free of charge. As of 2020 we are completely remote so you can now learn and create in the comfort of your own homes.</li>  
   <li>📫 Reach out to me at **jackiedmcgraw@gmail.com** with any questions </li>
   <li>💬 Ask for a quote on freelance or contract work at [Jackie's Jawn] (https://www.facebook.com/JackiesJawn)</li>
 </ul>
