@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 - 🆔 26 (they/them)
 
-- 💼 Web Developer @ Harvard University
+- 💼 Horizon Worlds Builder Support Engineer @ Meta
 
 - ✨ Owner @ Jackie's Jawn
 
@@ -43,7 +43,7 @@ Here are some ideas to get you started:
 <!-- <ul>
   <li>💻 I lead the [Facebook Developer Circle: Boston](https://github.com/tomkaX?tab=repositories) group where anyone is welcome to learn Facebook technologies free of charge. As of 2020 we are completely remote so you can now learn and create in the comfort of your own homes.</li>  
   <li>📫 Reach out to me at **jackiedmcgraw@gmail.com** with any questions </li>
-  <li>💬 Ask for a quote on freelance or contract work at [Jackie's Jawn] (https://jackiesjawn.com)</li>
+  <li>💬 Ask for a quote on freelance or contract work at [Jackie's Jawn] (https://www.facebook.com/JackiesJawn)</li>
 </ul>
    -->
 <!-- <p align="center"> 
@@ -97,7 +97,7 @@ Here are some ideas to get you started:
 
   <br/>
 
-  <li> 💬 Ask for a quote on freelance or contract work at <a href="https://jackiesjawn.com" target="_blank" title="Jackie's Jawn Contracting and Commissions Website ">Jackie's Jawn.</li>
+  <li> 💬 Ask for a quote on freelance or contract work at <a href="https://www.facebook.com/JackiesJawn" target="_blank" title="Jackie's Jawn Contracting and Commissions Website ">Jackie's Jawn.</li>
   
   <br/>
 
