@@ -1,120 +1,64 @@
+# 💫 About Me
+<p align="right"><a href="https://linkedin.com/in/jackietancredi"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<!-- <a href="https://tiktok.com/@metaverselorax"><img src="https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white" alt="TikTok"></a> -->
+<a href="https://youtube.com/@JackieTancredi"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white" alt="YouTube"></a>
+<!-- <a href="https://codepen.io/jackiedmcgraw"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="Codepen">--><br></a>
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTVmendmMGl3b282OGpiaHgyeWF1ZHZhNGtsZWwzOWtrd3p5b2pzeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/XhZB92fY4fgVp8bTkY/giphy.gif" height="10"></p>
 
-<!--
-**tomkaX/tomkaX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZG5pbG51ODkwdXVxMGp6aGt2Znp2dm0xdjB5a2VmZHA0YjFjNG5kdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Niyk3I37xmdLU1HL8t/giphy.gif"  height="170">
 
-Here are some ideas to get you started:
+<p>Hi 👋 I'm Jackie! </p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTVmendmMGl3b282OGpiaHgyeWF1ZHZhNGtsZWwzOWtrd3p5b2pzeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/XhZB92fY4fgVp8bTkY/giphy.gif" height="10">
 
-<h1 align="left">👋 Hi, I'm Jackie!</h1>
+🆔 29 (they/them)
 
-<br/>
+💼 Former Horizon Worlds Builder Support Engineer @ Meta
 
-- 🆔 27 (they/them)
+✨ Owner @ Jackie's Jawn
 
-- 💼 Horizon Worlds Builder Support Engineer @ Meta
+📍 South Coast of Massachusettes
 
-- ✨ Owner @ Jackie's Jawn
+🎓 B.S. Game Design
 
-- 📍 Boston, MA
+🚧 Pursuing M.A. Digital Media Design at Harvard
 
-- 🎓 B.S. Game Design
+💛 Games, UI/UX design, accessibility
 
-- 🚧 Pursuing M.A. Digital Media Design
-
-- 💛 Games, UI/UX design, accessibility
-
-<br/>
-<br/>
-
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTVmendmMGl3b282OGpiaHgyeWF1ZHZhNGtsZWwzOWtrd3p5b2pzeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/XhZB92fY4fgVp8bTkY/giphy.gif" height="10">
 <p align="left">I love creating engaging digital experiences and frequently advocate for inclusive, accessible products that follow universal design techniques. When designing, I strive to create user interfaces that need no explanation, and believe that the most effective way to learn is while having fun in a judgement free zone. 🎉</p>
 
-<p>I'm a newly Certified Accessible Player Experience Practitioner through the Able Gamers Charity– if you haven't heard of it, you should <a href="https://accessible.games/apxp" target="_blank" title="Accessible Player Experience Practitioner Certification Training Website">check out getting certified</a> to rid your game of experience blockers. 💪</p>
+<p>I'm a Certified Accessible Player Experience Practitioner through the Able Gamers Charity– if you haven't heard of it, you should <a href="https://accessible.games/apxp" target="_blank" title="Accessible Player Experience Practitioner Certification Training Website">check out getting certified</a> to rid your game of experience blockers. 💪</p>
 
-<!-- ![image](https://github.com/saadeghi/saadeghi/blob/master/dino.gif) -->
-<!-- <ul>
-  <li>💻 I lead the [Facebook Developer Circle: Boston](https://www.facebook.com/groups/823728767782273) group where anyone is welcome to learn Facebook technologies free of charge. As of 2020 we are completely remote so you can now learn and create in the comfort of your own homes.</li>  
-  <li>📫 Reach out to me at **jackiedmcgraw@gmail.com** with any questions </li>
-  <li>💬 Ask for a quote on freelance or contract work at [Jackie's Jawn] (https://www.facebook.com/JackiesJawn)</li>
-</ul>
-   -->
-<!-- <p align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=JacquelineDMcGraw&show_icons=true" alt="JacquelineDMcGraw" />
-   -->
+# 💻 Tech Stack:
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=c-sharp&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=flat&logo=dart&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![Swift](https://img.shields.io/badge/swift-F54A2A?style=flat&logo=swift&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=Cloudflare&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=flat&logo=azure-devops&logoColor=white) ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=flat&logo=heroku&logoColor=white) ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=flat&logo=webpack&logoColor=black) ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=flat&logo=vuedotjs&logoColor=%234FC08D) ![Stylus](https://img.shields.io/badge/stylus-%23ff6347.svg?style=flat&logo=stylus&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![p5js](https://img.shields.io/badge/p5.js-ED225D?style=flat&logo=p5.js&logoColor=FFFFFF) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=flat&logo=opencv&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=flat&logo=jquery&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=flat&logo=JSON%20web%20tokens) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=flat&logo=angularjs&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white) ![Electron.js](https://img.shields.io/badge/Electron-191970?style=flat&logo=Electron&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=flat&logo=npm&logoColor=white) ![UNITY](https://img.shields.io/badge/Unity-%2320232a.svg?style=flat&logo=unity&logoColor=white) ![UNREAL](https://img.shields.io/badge/unreal-%2320232a.svg?style=flat&logo=unreal-engine&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=flat&logo=SASS&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=flat&logo=redux&logoColor=white) ![Less](https://img.shields.io/badge/less-2B4C80?style=flat&logo=less&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=flat&logo=laravel&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=flat&logo=.net&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=flat&logo=angular&logoColor=white) ![Gulp](https://img.shields.io/badge/GULP-%23CF4647.svg?style=flat&logo=gulp&logoColor=white) ![Threejs](https://img.shields.io/badge/threejs-black?style=flat&logo=three.js&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=flat&logo=apache&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=flat&logo=nginx&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=flat&logo=Amazon%20DynamoDB&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=flat&logo=microsoft%20sql%20server&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=flat&logo=adobephotoshop&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=flat&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=flat&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobeillustrator-%23FF9A00.svg?style=flat&logo=adobeillustrator&logoColor=white) ![Adobe InDesign](https://img.shields.io/badge/Adobe%20InDesign-49021F?style=flat&logo=adobeindesign&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=flat&logo=blender&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) ![Proto.io](https://img.shields.io/badge/Proto.io-161637?style=flat&logo=proto.io&logoColor=00e5ff) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![Framer](https://img.shields.io/badge/Framer-black?style=flat&logo=framer&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white) ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=flat&logo=scipy&logoColor=%white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=flat&logo=plotly&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=flat&logo=Trello&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=flat&logo=firefox&logoColor=#FF7139) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat&logo=notion&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=flat&logo=jira&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=flat&logo=Raspberry-Pi) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=Arduino&logoColor=white) ![Babel](https://img.shields.io/badge/Babel-F9DC3e?style=flat&logo=babel&logoColor=black) ![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=flat&logo=cmake&logoColor=white) ![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=flat&logo=confluence&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white) ![Webflow](https://img.shields.io/badge/Webflow-4353FF?style=flat&logo=webflow&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=flat&logo=eslint&logoColor=white) ![Sketch](https://img.shields.io/badge/Sketch-FFB387?style=flat&logo=sketch&logoColor=black) ![Inkscape](https://img.shields.io/badge/Inkscape-e0e0e0?style=flat&logo=inkscape&logoColor=080A13) ![Gimp Gnu Image Manipulation Program](https://img.shields.io/badge/Gimp-657D8B?style=flat&logo=gimp&logoColor=FFFFFF) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=flat&logo=yarn&logoColor=white) ![Type-graphql](https://img.shields.io/badge/-TypeGraphQL-%23C04392?style=flat) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat&logo=django&logoColor=white) ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=flat&logo=django&logoColor=white&color=ff1709&labelColor=gray) ![Ember](https://img.shields.io/badge/ember-1C1E24?style=flat&logo=ember.js&logoColor=#D04A37) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat&logo=graphql&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=flat&logo=markdown&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=flat&logo=go&logoColor=white) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=flat&logo=gnu-bash&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)
 
-<!-- 
-<p align="center"> 
-  <a href="https://www.linkedin.com/in/jackiemcgraw/" target="_blank">
-    <img src="https://github.com/JacquelineDMcGraw/JacquelineDMcGraw/blob/master/gifs/bio.png?raw=true" alt="JacquelineDMcGraw" style="width:70%; margin: 60px 0px 10px 0px;"> 
-  </a>
-</p>
+<!--
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=JacquelineDMcGraw&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=JacquelineDMcGraw&theme=nightowl&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=JacquelineDMcGraw&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=JacquelineDMcGraw&theme=discord&no-frame=false&no-bg=true&margin-w=4)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=JacquelineDMcGraw&limit=5&theme=dark&combine_all_yearly_contributions=true)
  -->
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=JacquelineDMcGraw" alt="JacquelineDMcGraw" />
-  
-  <img src="https://3.bp.blogspot.com/-pxR8u1KJTW8/XIb7zIKqqQI/AAAAAAAAIrA/KDNONkGKj-EDm1vadBqJbxMg64oi0LVXgCK4BGAYYCw/s1600/logo%2Bhtml5.png" alt="HTML5" width="16" height="20"/>
-  
-  <img src="https://www.easyprogramming.net/logo/js.png" alt="JS" width="16" height="16"/>
-  
-  <img src="https://img2.pngio.com/download-icon-css-3-svg-eps-png-psd-ai-logo-vector-color-free-el-css-logo-png-1141_1600.png" alt="CSS" width="16" height="20"/>  
-  
-  <img src="https://miro.medium.com/max/3150/1*F6ufPKgGbyUPkWLZ-16ycw.png" alt="framer"  width="20" height="20" /> 
-  
-  <img src="https://img.icons8.com/color/48/000000/git.png" alt="git" width="20" height="20"/> 
-  
-  <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="react" width="20" height="20"/> 
-  
-  <img src="https://media-exp1.licdn.com/dms/image/C510BAQHNdhXnGMLpdw/company-logo_200_200/0/1575380570230?e=2159024400&v=beta&t=bqSSytGlxk4ATepY-qvGIHAVI05HjnBYe77hONUvY98" alt="sparkar" width="20" height="20"/>
-  
-  <img src="https://www.iconarchive.com/download/i98223/dakirby309/simply-styled/Blender.ico" alt="blender" width="20" height="20"/> 
-  
-  <img src="https://cdn.worldvectorlogo.com/logos/figma-1.svg" alt="Figma" width="20" height="20"/> 
-  
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Adobe_Illustrator_CC_icon.svg/1051px-Adobe_Illustrator_CC_icon.svg.png" alt="AI" width="20" height="20"/> 
-  
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/1051px-Adobe_Photoshop_CC_icon.svg.png" alt="PSD" width="20" height="20"/> 
-  
-  <img style="border-radius:3px;" src="https://upload.wikimedia.org/wikipedia/commons/2/29/Adobe_After_Effects_CC_icon.png?20180202164623" alt="AE" width="20" height="20"/>
-</p>
-
-<h1></h1>
-
-<p> 
-<ul>
-  <li> 💻 I'm a lead at <a href="https://github.com/tomkaX?tab=repositories" target="_blank" title="Meta Developer Circle: Boston Facebook group ">Meta Developer Circle: Boston</a> – We are community of innovators and experienced developers who give free opportunities to learn Facebook products. Come learn stuff with us by <a href="https://boston-devc.github.io/Subscribe" target="_blank" title="Facebook Developer Circle: Boston Notification Sign-up Page ">getting an alert when our next event is released.</a> ✨</li>
-
-  <br/>
-
-  <li> 👾 We often do seminars, work sessions, and game nights in our Discord server – come and join us anytime with <a href="https://discord.gg/84SEVsd5" target="_blank" title="Facebook Developer Circle: Boston Discord Server Invite ">this invite</a>.</li>
-
-  <br/>
-
-  <li> 💬 Ask for a quote on freelance or contract work at <a href="https://www.facebook.com/JackiesJawn" target="_blank" title="Jackie's Jawn Contracting and Commissions Website ">Jackie's Jawn.</li>
-  
-  <br/>
-
-  <li> 📫 Reach out to me at <a href="mailto:jackiedmcgraw+git@gmail.com" target="_blank" title="Email jackiedmcgraw+git@gmail.com (Opens in your native mail client)">jackiedmcgraw+git@gmail.com</a> with any questions.</li>
-</ul>
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/jackiemcgraw/" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/tomakoliada/" height="20" width="20" />
-  </a>
-   
-  <a href="https://www.facebook.com/jackiesjawn" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="https://www.facebook.com/tomkka" height="20" width="20" />
-  </a>
-
-  <a href="https://www.instagram.com/jackiesjawn/" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="https://www.instagram.com/tomkamk/" height="20" width="20" />
+  <a href="https://visitcount.itsvg.in">
+      <img src="https://visitcount.itsvg.in/api?id=JacquelineDMcGraw&icon=5&color=1" alt="Visit Count" />
   </a>
 </p>
+
+<h2 align="center">☕️ Coffee & Tea Fund</h2>
+
+<p align="center"><a href="https://paypal.me/paypal.me/JackiesJawn">
+    <img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" alt="PayPal" />
+</a></p>
+
+  
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
