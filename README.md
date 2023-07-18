@@ -47,13 +47,10 @@
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=JacquelineDMcGraw&limit=5&theme=dark&combine_all_yearly_contributions=true)
- -->
-<p align="left">
-  <a href="https://visitcount.itsvg.in">
-      <img src="https://visitcount.itsvg.in/api?id=JacquelineDMcGraw&icon=5&color=1" alt="Visit Count" />
-  </a>
-</p>
 
+[![](https://visitcount.itsvg.in/api?id=JacquelineDMcGraw&icon=5&color=1)](https://visitcount.itsvg.in)
+ -->
+ 
 <h2 align="center">☕️ Coffee & Tea Fund</h2>
 
 <p align="center"><a href="https://paypal.me/paypal.me/JackiesJawn">
