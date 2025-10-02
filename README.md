@@ -11,7 +11,7 @@
 
 <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTVmendmMGl3b282OGpiaHgyeWF1ZHZhNGtsZWwzOWtrd3p5b2pzeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/XhZB92fY4fgVp8bTkY/giphy.gif" height="10">
 
-🆔 29 (they/them)
+🆔 31 (they/them)
 
 💼 Former Horizon Worlds Builder Support Engineer @ Meta
 
@@ -21,7 +21,7 @@
 
 🎓 B.S. Game Design
 
-🚧 Pursuing M.A. Digital Media Design at Harvard
+🚧 Former MLA Digital Media Design Student at Harvard (withdrew due to ethical concerns)
 
 💛 Games, UI/UX design, accessibility
 
