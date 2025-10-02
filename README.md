@@ -11,7 +11,7 @@
 
 <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTVmendmMGl3b282OGpiaHgyeWF1ZHZhNGtsZWwzOWtrd3p5b2pzeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/XhZB92fY4fgVp8bTkY/giphy.gif" height="10">
 
-🆔 31 (they/them)
+🆔 31 years of XP
 
 💼 Former Horizon Worlds Builder Support Engineer @ Meta
 
@@ -51,11 +51,6 @@
 [![](https://visitcount.itsvg.in/api?id=JacquelineDMcGraw&icon=5&color=1)](https://visitcount.itsvg.in)
  -->
  
-<h2 align="center">☕️ Coffee & Tea Fund</h2>
-
-<p align="center"><a href="https://paypal.me/paypal.me/JackiesJawn">
-    <img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" alt="PayPal" />
-</a></p>
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
