@@ -27,7 +27,17 @@ I'm a Certified Accessible Player Experience Practitioner through the AbleGamers
 
 ## Current Projects
 
-**Claude A11y**– makes AI chat interfaces work with screen readers. Chrome extension, VS Code extension, and CLI tool. Open source, MIT licensed, looking for contributors: [claude-a11y](https://github.com/JacquelineDMcGraw/claude-a11y)
+<table><tr>
+<td width="220" align="center" valign="top">
+  <a href="https://github.com/JacquelineDMcGraw/claude-a11y">
+    <img src="https://raw.githubusercontent.com/JacquelineDMcGraw/claude-a11y/main/assets/logo-title.png" width="200" alt="Claude A11y">
+  </a>
+</td>
+<td valign="top">
+  <strong><a href="https://github.com/JacquelineDMcGraw/claude-a11y">Claude A11y</a></strong><br>
+  Makes AI chat interfaces work with screen readers. Chrome extension, VS Code extension, and CLI tool. Open source, MIT licensed, looking for contributors.
+</td>
+</tr></table>
 
 <details>
   <summary>Accessibility (expand for details)</summary>
