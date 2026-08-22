@@ -12,7 +12,7 @@ Hi, I'm Jackie!
 </td>
 <td valign="top">
   <ul>
-    <li>31 years of XP</li>
+    <li>32 years of XP</li>
     <li>Community Manager @ Stealth</li>
     <li>Owner at Jackie's Jawn</li>
     <li>South Coast of Massachusetts</li>
