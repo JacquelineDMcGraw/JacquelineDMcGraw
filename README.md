@@ -36,7 +36,7 @@ I'm a Certified Accessible Player Experience Practitioner through the AbleGamers
 <table border="0" cellspacing="0" cellpadding="0"><tr>
 <td width="220" align="center" valign="top">
   <a href="https://github.com/JacquelineDMcGraw/audiobookshelf-client-react">
-    <img src="https://raw.githubusercontent.com/JacquelineDMcGraw/audiobookshelf-client-react/main/public/images/Logo.png" width="100" alt="Audiobookshelf">
+    <img src="assets/audiobookshelf-black.png" width="220" alt="Audiobookshelf">
   </a>
 </td>
 <td valign="top">
@@ -48,7 +48,7 @@ I'm a Certified Accessible Player Experience Practitioner through the AbleGamers
 <tr>
 <td width="220" align="center" valign="top">
   <a href="https://github.com/JacquelineDMcGraw/claude-a11y">
-    <img src="https://raw.githubusercontent.com/JacquelineDMcGraw/claude-a11y/main/assets/logo-title.png" width="200" alt="Claude A11y">
+    <img src="assets/claude-a11y-black.png" width="220" alt="Claude A11y">
   </a>
 </td>
 <td valign="top">
