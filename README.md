@@ -13,8 +13,8 @@ Hi, I'm Jackie!
 <td valign="top">
   <ul>
     <li>32 years of XP</li>
-    <li>Community Manager @ Stealth</li>
-    <li>Owner at Jackie's Jawn</li>
+    <!-- <li>Community Manager @ Stealth</li>
+    <li>Owner at Jackie's Jawn</li> -->
     <li>South Coast of Massachusetts</li>
     <li>B.S. Game Design</li>
     <li>Former MLA Digital Media Design student at Harvard (withdrew due to ethical concerns)</li>
