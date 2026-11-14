@@ -8,7 +8,7 @@ Hi, I'm Jackie!
 
 <table border="0" cellspacing="0" cellpadding="0"><tr>
 <td width="180" align="center" valign="middle">
-  <img src="https://raw.githubusercontent.com/JacquelineDMcGraw/JacquelineDMcGraw/master/assets/doodle-static.png" width="160" alt="">
+  <img src="assets/doodle-static.png" width="160" alt="">
 </td>
 <td valign="top">
   <ul>
@@ -23,13 +23,13 @@ Hi, I'm Jackie!
 </td>
 </tr></table>
 
-<img src="https://raw.githubusercontent.com/JacquelineDMcGraw/JacquelineDMcGraw/master/assets/squiggle-static.png" height="10" alt="">
+<img src="assets/squiggle-static.png" height="10" alt="">
 
 I build inclusive digital experiences and advocate for accessible products that follow universal design. I believe user interfaces should need no explanation, and that the most effective way to learn is while having fun in a judgement free zone.
 
 I'm a Certified Accessible Player Experience Practitioner through the AbleGamers Charity– if you haven't heard of it, <a href="https://accessible.games/apxp" title="Accessible Player Experience Practitioner Certification">check out getting certified</a> to rid your game of experience blockers.
 
-<img src="https://raw.githubusercontent.com/JacquelineDMcGraw/JacquelineDMcGraw/master/assets/squiggle-static.png" height="10" alt="">
+<img src="assets/squiggle-static.png" height="10" alt="">
 
 ## Current Projects
 
