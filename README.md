@@ -35,6 +35,17 @@ I'm a Certified Accessible Player Experience Practitioner through the AbleGamers
 
 <table border="0" cellspacing="0" cellpadding="0"><tr>
 <td width="220" align="center" valign="top">
+  <a href="https://github.com/JacquelineDMcGraw/audiobookshelf-client-react">
+    <img src="https://raw.githubusercontent.com/JacquelineDMcGraw/audiobookshelf-client-react/main/public/images/Logo.png" width="100" alt="Audiobookshelf">
+  </a>
+</td>
+<td valign="top">
+  <strong><a href="https://github.com/JacquelineDMcGraw/audiobookshelf-client-react">Audio Book Shelf</a></strong><br>
+  I added Read Along to my Audiobookshelf fork so you can listen to an audiobook and follow the text at the same time. Words highlight as the narrator reads, and you can search the text, jump to a chapter, or bookmark your place.
+</td>
+</tr>
+<tr>
+<td width="220" align="center" valign="top">
   <a href="https://github.com/JacquelineDMcGraw/claude-a11y">
     <img src="https://raw.githubusercontent.com/JacquelineDMcGraw/claude-a11y/main/assets/logo-title.png" width="200" alt="Claude A11y">
   </a>
