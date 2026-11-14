@@ -17,7 +17,7 @@ Hi, I'm Jackie!
     <li>Owner at Jackie's Jawn</li> -->
     <li>South Coast of Massachusetts</li>
     <li>B.S. Game Design</li>
-    <li>Former MLA Digital Media Design student at Harvard (withdrew due to ethical concerns)</li>
+    <li>Former MLA Digital Media Design student at Harvard DCE– withdrew due to ethical concerns.</li>
     <li>Games, UI/UX design, accessibility</li>
   </ul>
 </td>
