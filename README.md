@@ -33,8 +33,8 @@ I'm a Certified Accessible Player Experience Practitioner through the AbleGamers
 
 ## Current Projects
 
-<table border="0" cellspacing="0" cellpadding="0"><tr>
-<td width="220" align="center" valign="top">
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr>
+<td width="220" height="118" align="center" valign="middle">
   <a href="https://github.com/JacquelineDMcGraw/audiobookshelf-client-react">
     <img src="assets/audiobookshelf-black.png" width="220" alt="Audiobookshelf">
   </a>
@@ -42,17 +42,17 @@ I'm a Certified Accessible Player Experience Practitioner through the AbleGamers
 <td valign="top">
   <strong><a href="https://github.com/JacquelineDMcGraw/audiobookshelf-client-react">Audio Book Shelf</a></strong><br>
   I added Read Along to my Audiobookshelf fork so you can listen to an audiobook and follow the text at the same time. Words highlight as the narrator reads, and you can search the text, jump to a chapter, or bookmark your place.<br>
-  <a href="https://jacquelinedmcgraw.github.io/audiobookshelf-client-react/#library">Try the live Read Along demo</a>
+  <a href="https://jacquelinedmcgraw.github.io/audiobookshelf-client-react/">Try the live Read Along demo</a>
 </td>
-</tr>
-<tr>
-<td width="220" align="center" valign="top">
+</tr></tbody>
+<tbody><tr>
+<td width="220" height="118" align="center" valign="middle">
   <a href="https://github.com/JacquelineDMcGraw/claude-a11y">
-    <img src="assets/claude-a11y-black.png" width="220" alt="Claude A11y">
+    <img src="assets/claude-a11y-pure-black.png" width="220" alt="Claude A11y">
   </a>
 </td>
 <td valign="top">
   <strong><a href="https://github.com/JacquelineDMcGraw/claude-a11y">Claude A11y</a></strong><br>
   Makes AI chat interfaces work with screen readers. Chrome extension, VS Code extension, and CLI tool. Open source, MIT licensed, looking for contributors.
 </td>
-</tr></table>
+</tr></tbody></table>
